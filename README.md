@@ -1,1 +1,0 @@
-# Visual-Recognition-using-Ensemble-of-Pseudo-Models
